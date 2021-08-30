@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Make projects",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iure quam consectetur sed esse! Sint, optio molestiae distinctio ad temporibus delectus!",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Apply for a job",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea necessitatibus quibusdam possimus et facere, atque soluta dolorem nostrum nemo, eos beatae ratione. Hic, voluptas eaque.",
+      "complete": true
+    },
+    {
+      "title": "Get a job",
+      "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita culpa ut, quis perferendis delectus ab explicabo architecto. Voluptate ipsa alias amet non laudantium minus, labore officiis eveniet cumque aut natus.",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
